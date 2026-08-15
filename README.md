@@ -26,7 +26,7 @@ Connect RAG to Open WebUI
 <li>click workspace
 <li>click Knowledge 
 <li>create Knowledge base name
-<li>drag and drop your doc
+<li>drag and drop your doc<br>
 <img width="468" height="272" alt="image" src="https://github.com/user-attachments/assets/3be27666-44de-4dcc-be38-2ad83750bb8f" />
 
 <br>upload document<br>
