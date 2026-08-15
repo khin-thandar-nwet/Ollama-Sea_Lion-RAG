@@ -17,24 +17,27 @@ https://github.com/khin-thandar-nwet/Local-LLM-with-Ollama-and-Docker
 
 <img width="468" height="255" alt="image" src="https://github.com/user-attachments/assets/8c3eeb25-b23f-47a2-a1fc-28f5da5df485" />
 
+# Step 4: Open Web UI via DOcker
+
+<img width="1439" height="702" alt="Screenshot 2026-08-15 at 6 05 37 PM" src="https://github.com/user-attachments/assets/a61c9308-450c-443e-a7e4-26656b648875" />
 
 Connect RAG to Open WebUI
-# Step 4 create RAG Knowlagebase<br>
+# Step 5 create RAG Knowlagebase<br>
 <img width="468" height="272" alt="image" src="https://github.com/user-attachments/assets/3be27666-44de-4dcc-be38-2ad83750bb8f" />
 
 <br>upload document<br>
 <img width="468" height="78" alt="image" src="https://github.com/user-attachments/assets/eb85586f-d976-4e3a-bba2-86520cdde32e" />
 
 
-# step 5 click chat
+# step 6 click chat
 
 <img width="468" height="184" alt="image" src="https://github.com/user-attachments/assets/be313413-7054-41f7-a23e-ca50a97c252c" />
 
-# Step 6 select own knowledge base
+# Step 7 select own knowledge base
 
 <img width="468" height="200" alt="image" src="https://github.com/user-attachments/assets/21328b3e-6941-4c57-aef0-f14b3f2e3eb2" />
 
-# Step 7 
+# Step 8
 
 <img width="468" height="257" alt="image" src="https://github.com/user-attachments/assets/bd20cbf6-2373-4fc7-ac78-a56b4e555ad6" />
 
