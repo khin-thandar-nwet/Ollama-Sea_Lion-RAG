@@ -37,7 +37,7 @@ Connect RAG to Open WebUI
 
 <img width="468" height="200" alt="image" src="https://github.com/user-attachments/assets/21328b3e-6941-4c57-aef0-f14b3f2e3eb2" />
 
-# Step 8
+# Step 8 Chatbot with WebUI
 
 <img width="468" height="257" alt="image" src="https://github.com/user-attachments/assets/bd20cbf6-2373-4fc7-ac78-a56b4e555ad6" />
 
