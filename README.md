@@ -22,7 +22,7 @@ Connect RAG to Open WebUI
 # Step 4 create RAG Knowlagebase<br>
 <img width="468" height="272" alt="image" src="https://github.com/user-attachments/assets/3be27666-44de-4dcc-be38-2ad83750bb8f" />
 
-<br>
+<br>upload document<br>
 <img width="468" height="78" alt="image" src="https://github.com/user-attachments/assets/eb85586f-d976-4e3a-bba2-86520cdde32e" />
 
 
