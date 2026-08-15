@@ -7,6 +7,7 @@ Ollama+Sea_Lion+RAG
 
 
 # Step 1: Please see the link Local-LLM-with-Ollama-and-Docker<br>
+https://github.com/khin-thandar-nwet/Local-LLM-with-Ollama-and-Docker
 
 # Step 2: Ollama serve in Terminal 1<br>
 
