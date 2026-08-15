@@ -23,6 +23,10 @@ https://github.com/khin-thandar-nwet/Local-LLM-with-Ollama-and-Docker
 
 Connect RAG to Open WebUI
 # Step 5 create RAG Knowlagebase<br>
+<li>click workspace
+<li>click knodledge
+<li>create knowledgebase name
+<li>drag and drop your doc
 <img width="468" height="272" alt="image" src="https://github.com/user-attachments/assets/3be27666-44de-4dcc-be38-2ad83750bb8f" />
 
 <br>upload document<br>
@@ -33,7 +37,7 @@ Connect RAG to Open WebUI
 
 <img width="468" height="184" alt="image" src="https://github.com/user-attachments/assets/be313413-7054-41f7-a23e-ca50a97c252c" />
 
-# Step 7 select own knowledge base
+# Step 7 select your own knowledge base
 
 <img width="468" height="200" alt="image" src="https://github.com/user-attachments/assets/21328b3e-6941-4c57-aef0-f14b3f2e3eb2" />
 
