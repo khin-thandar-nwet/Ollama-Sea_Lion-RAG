@@ -6,6 +6,38 @@ Ollama+Sea_Lion+RAG
 
 
 
-Step 1 Please see the link Local-LLM-with-Ollama-and-Docker<img width="468" height="39" alt="image" src="https://github.com/user-attachments/assets/9239b635-ea40-4311-9f87-d30a1e80eec4" />
-Step 2 Ollama serve<img width="468" height="39" alt="image" src="https://github.com/user-attachments/assets/7f674231-1f59-4335-b535-ff668682470f" />
+# Step 1: Please see the link Local-LLM-with-Ollama-and-Docker<br>>
+
+# Step 2: Ollama serve in Terminal 1<br>
+
+<img width="468" height="340" alt="image" src="https://github.com/user-attachments/assets/50688a3a-7bf4-45a4-812d-14e64519e5bf" />
+
+# Step 3: ollama pull aisingapore/Llama-SEA-LION-v3-8B-IT in Terminal 2  <br>
+
+<img width="468" height="255" alt="image" src="https://github.com/user-attachments/assets/8c3eeb25-b23f-47a2-a1fc-28f5da5df485" />
+
+
+Connect RAG to Open WebUI
+# Step 4 create RAG Knowlagebase<br>
+<img width="468" height="272" alt="image" src="https://github.com/user-attachments/assets/3be27666-44de-4dcc-be38-2ad83750bb8f" />
+
+<br>
+<img width="468" height="78" alt="image" src="https://github.com/user-attachments/assets/eb85586f-d976-4e3a-bba2-86520cdde32e" />
+
+
+# step 5 click chat
+
+<img width="468" height="184" alt="image" src="https://github.com/user-attachments/assets/be313413-7054-41f7-a23e-ca50a97c252c" />
+
+# Step 6 select own knowledge base
+
+<img width="468" height="200" alt="image" src="https://github.com/user-attachments/assets/21328b3e-6941-4c57-aef0-f14b3f2e3eb2" />
+
+# Step 7 
+
+<img width="468" height="257" alt="image" src="https://github.com/user-attachments/assets/bd20cbf6-2373-4fc7-ac78-a56b4e555ad6" />
+
+
+
+
 
