@@ -9,11 +9,13 @@ Ollama+Sea_Lion+RAG
 # Step 1: Please see the link Local-LLM-with-Ollama-and-Docker<br>
 https://github.com/khin-thandar-nwet/Local-LLM-with-Ollama-and-Docker
 
-# Step 2: Ollama serve in Terminal 1<br>
+# Step 2: Start Ollama service
+Ollama serve in Terminal 1<br>
 
 <img width="468" height="340" alt="image" src="https://github.com/user-attachments/assets/50688a3a-7bf4-45a4-812d-14e64519e5bf" />
 
-# Step 3: ollama pull aisingapore/Llama-SEA-LION-v3-8B-IT in Terminal 2  <br>
+# Step 3: installation aisingapore/Llama-SEA-LION-v3-8B-IT in Terminal 2
+ollama pull aisingapore/Llama-SEA-LION-v3-8B-IT in Terminal 2  <br>
 
 <img width="468" height="255" alt="image" src="https://github.com/user-attachments/assets/8c3eeb25-b23f-47a2-a1fc-28f5da5df485" />
 
